@@ -3,7 +3,7 @@ import { NavigationContainer } from "@react-navigation/native";
 import Home from "./screens/Home";
 import ColorPalette from "./screens/colorPalette";
 import { createStackNavigator } from "@react-navigation/stack";
-const Stack = createStackNavigator();
+// const Stack = createStackNavigator();
 
 const App = () => {
   return (
